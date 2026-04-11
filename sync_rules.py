@@ -14,6 +14,8 @@ RULES_CONFIG = [
     {"url": "https://raw.githubusercontent.com/G4free/clash-ruleset/main/ruleset/anthropic.txt",
      "filename": "Anthropic.yaml"},
     {"url": "https://ruleset.skk.moe/List/non_ip/sogouinput.conf", "filename": "SogouInput.yaml"},
+    {"url": "https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@develop/Rules/Media/ForeignMedia.list", "filename": "ForeignMedia.list"},
+    {"url": "https://cdn.jsdelivr.net/gh/sve1r/Rules-For-Quantumult-X@develop/Rules/Media/DomesticMedia.list", "filename": "DomesticMedia.list"},
 ]
 
 
